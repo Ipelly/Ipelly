@@ -19,7 +19,7 @@
 ![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Full Stack Developer with a huge love for React.js, Node.JS, Java Spring Boot,   Headless Tech, Everything API, RDBMS, and System Architecture. Currently, **I'm open to work and employment opportunities**.
+I am a Full Stack Developer with a huge love for React.js, Node.JS, Java Spring Boot, Front End, MicrofrontEnd, Headless Tech, Everything API, RDBMS, and System Architecture. Currently, **I'm open to work and employment opportunities**.
 
 I am currently working as a Software Architect @ Lowe's, one of the biggest retail corporations in the world. I Actively code, architect, and lead the development team.
 
